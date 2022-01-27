@@ -1,0 +1,2 @@
+C:\Users\Charles\source\repos\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.AssemblyReference.cache
+C:\Users\Charles\source\repos\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.CoreCompileInputs.cache

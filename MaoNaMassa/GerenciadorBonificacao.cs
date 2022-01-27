@@ -10,6 +10,19 @@ namespace MaoNaMassa
     {
          private double _totalBonificacao;
 
+        public void Registrar(Funcionario funcionairo)
+        {
+            _totalBonificacao += funcionario.GetBonificacao();
+        }
 
+        public void Registrar(Diretor diretor)
+        {
+            _totalBonificacao += diretor.GetBonificacao();
+        }
+
+        public double GetTotalBonificacao()
+        {
+            return _totalBonificacao;
+        }
     }
 }
